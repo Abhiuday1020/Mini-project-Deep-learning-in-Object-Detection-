@@ -6,4 +6,6 @@ Construction Safety - https://drive.google.com/drive/folders/14Wr36gNnwD5y-GAbyh
 
 PPEDetection - This python code is use for identifiying the safety equipmens in a given video.
 
+PPEimg - It's works on images.
+
 
