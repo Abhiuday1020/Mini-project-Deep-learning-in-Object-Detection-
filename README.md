@@ -1,4 +1,4 @@
-# Mini-project  - Object Detection Using Deep Learning
+# Mini-project  - Object Detection Using Deep Learning ( Construction Safety)
 
 
 ##  Dataset 
